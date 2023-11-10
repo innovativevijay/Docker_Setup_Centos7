@@ -1,5 +1,5 @@
 ## Docker Installation on CentOS 7
--Docker is a platform for developing, shipping, and running applications in containers. To install Docker on CentOS 7:
+Docker is a platform for developing, shipping, and running applications in containers. To install Docker on CentOS 7:
 1. **Update Package Repository:**
 - Description: Updates the package repository to ensure you have the latest package information.
    ```bash
